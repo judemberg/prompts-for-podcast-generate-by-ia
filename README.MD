@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="./assets/yoda_pd.jpg"
     width="300"
 />
 </p>
